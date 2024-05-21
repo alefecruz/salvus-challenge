@@ -6,6 +6,18 @@
     Salvus é uma aplicação que conecta profissionais de saúde e os direciona para atendimentos. <br />
   </h3>
 </div>
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/alefecruz/gobarber-api.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/alefecruz/gobarber-api.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/alefecruz/gobarber-api.svg">
+  <a href="https://github.com/alefecruz/gobarber-api/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alefecruz/gobarber-api.svg">
+  </a>
+  <a href="https://github.com/alefecruz/gobarber-api/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/alefecruz/gobarber-api.svg">
+  </a>
+  <img alt="GitHub" src="https://img.shields.io/github/license/alefecruz/gobarber-api.svg">
+</p>
 <p align="center">“Sua única limitação é você mesmo”!</blockquote>
 
 <p align="center">
