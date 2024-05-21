@@ -28,7 +28,7 @@ Landing Page criada em React.js, para conectar profissionais de saúde.
 ## :arrow_forward: Clonando o repositório
 
 ```sh
-$ git clone https://github.com/alefecrz/Desafio-Salvus.git
+$ git clone https://github.com/alefecruz/salvus-challenge.git
 ```
 
 ## :wrench: Rodando backend
@@ -54,7 +54,6 @@ $ npm run dev:server
 ou
 $ yarn dev:server
 ```
-
 
 ## :package: Rodando frontend web
 
